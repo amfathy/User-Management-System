@@ -22,23 +22,6 @@ This project is a user management system implemented in C++ that supports user l
 - `all-users.in`: Input file with user data (comma-separated).
 - `all-users-relations.in`: Input file with user relationships (comma-separated).
 
-## Installation
-
-1. **Clone the Repository**:
-
-    ```bash
-    git clone <repository-url>
-    cd <repository-directory>
-    ```
-
-2. **Compile the Code**:
-
-    ```bash
-    g++ -std=c++17 -o user_management main.cpp
-    ```
-
-    This command will create an executable named `user_management`.
-
 ## Usage
 
 1. **Run the Program**:
