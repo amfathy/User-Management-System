@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1626376006 source:d:\c++programming\ds_project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1626625431 source:c:\users\yehia\onedrive\desktop\ds_project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	"Linkedlist.h"
+
+1626564314 c:\users\yehia\onedrive\desktop\ds_project\linkedlist.h
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+	"User.h"
+	<bits/stdc++.h>
+
+1626538487 source:c:\users\yehia\onedrive\desktop\ds_project\linkedlist.cpp
+
+1626474491 c:\users\yehia\onedrive\desktop\ds_project\userslist.h
+	<string>
+	"Linkedlist.h"
+
+1626480443 c:\users\yehia\onedrive\desktop\ds_project\user.h
+
+1626479655 source:c:\users\yehia\onedrive\desktop\ds_project\user.cpp
+	"User.h"
+
